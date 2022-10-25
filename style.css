@@ -59,4 +59,14 @@ button:hover {
 
 .temp {
     margin: 0;
+    margin-bottom: .4em;
+}
+
+.description {
+    text-transform: capitalize;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
 }
